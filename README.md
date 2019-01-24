@@ -2,7 +2,7 @@
 Pizza10 is a project for one pizzeria where to aim in automation and very simplicity.
 
 the software realizes
-  .Register/update/delete
+  Register/update/delete
     .Users
     .Products
     .Clients
